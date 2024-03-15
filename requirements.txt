@@ -1,3 +1,6 @@
 chainlit
 langchain
 langchain-groq
+langchain-community
+requests
+beautifulsoup4
